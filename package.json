@@ -1,0 +1,24 @@
+{
+  "name": "aplicacaonode",
+  "version": "1.0.0",
+  "description": "\"Aplicativo da aula\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gontijo23/AplicacaoNodeCI.git"
+  },
+  "keywords": [
+    "\"Aplicacao",
+    "aula",
+    "teste\""
+  ],
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gontijo23/AplicacaoNodeCI/issues"
+  },
+  "homepage": "https://github.com/Gontijo23/AplicacaoNodeCI#readme"
+}
